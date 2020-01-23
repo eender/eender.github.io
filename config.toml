@@ -1,8 +1,10 @@
-baseURL = "/"
+baseURL = "https://eender.github.io/"
 languageCode = "de-de"
 title = "Hugo Hero Theme"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+publishDir = "docs"
+
 
 [params]
   google_analytics_id=""
